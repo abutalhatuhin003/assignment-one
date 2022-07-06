@@ -52,8 +52,8 @@ body{
     text-decoration: none;
     padding: 10px 39px;
     border-radius: 5px;
-    background-image: linear-gradient(45deg, #F5F5F5, #F5F5F5);
-    color: #707071;
+    background-image: linear-gradient(45deg, tomato, tomato);
+    color: white;
     font-weight: 700;
     display: inline-block;
 }
@@ -102,21 +102,21 @@ hr{
     margin: 1%;
     padding: 5%;
     background-size: 25%;
-    background-color: #FF6347;
+    background-color: coral;
 }
 .shelter{
     border-radius: 2%;
     margin: 1%;
     padding: 5%;
     background-size: 25%;
-    background-color: #FF6347;
+    background-color: coral;
 }
 .education{
     border-radius: 2%;
     margin: 1%;
     padding: 5%;
     background-size: 25%;
-    background-color: #FF6347;
+    background-color: coral;
 }
 #activities{
     text-align: center;
@@ -136,7 +136,7 @@ hr{
     padding: 20%;
 }
 #tree-deailes{
-    background-color: greenyellow;
+    background-color: rgb(150, 196, 81);
     padding: 5%;
 }
 #blood-donation{
@@ -150,10 +150,17 @@ border-radius: 5%;
     padding: 20%;
 }
 #blood-details{
-    background-color: #FF4500;
+    background-color: rgb(253, 105, 51);
     padding: 5%;
+    color: #fff;
+}
+#find-us{
+    margin-bottom: 5%;
+    text-align: center;
+    justify-content: center;
 }
 #update{
+    margin-top: 5%;
     text-align: center;
 }
 #full-box{
@@ -167,7 +174,6 @@ border-radius: 5%;
     justify-content: center;
     align-items: center;
 }
-
 #bar-button{
  position: relative;
 }
