@@ -1,0 +1,202 @@
+.{font-family: 'Kanit', sans-serif;}
+body{
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+}
+#banner-img{
+    background: rgba(0, 0, 0, 0.7) url("banner/donation0.jpg");
+    background-blend-mode: darken;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 22%;
+}
+#banner-contant{
+    color: white;
+    text-align: center;
+}
+#help-word{
+    font-weight: bold;
+    font-size: 50px;
+}
+#lorem{
+    font-size: 20px;
+}
+#donate-button{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, tomato, tomato);
+    color: #fff;
+    font-weight: 700;
+    display: inline-block;
+}
+#after-banner{
+    text-align: center;
+}
+#donate-today{
+    font-size: 40px;
+    font-weight: bold;
+}
+#taka{
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    text-align: center;
+}
+.taka-box{
+    padding-right: 3%;
+    padding-left: 3%;
+    margin: 7px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 39px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, #F5F5F5, #F5F5F5);
+    color: #707071;
+    font-weight: 700;
+    display: inline-block;
+}
+#center-hr{
+    text-align: center;
+    margin: 5%;
+}
+#other-amount{
+ font-weight: bold;
+ color: #28282B;
+}
+hr{
+    width: 50%;
+}
+#second-donate{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, tomato, tomato);
+    color: #fff;
+    font-weight: 700;
+    display: inline-block;
+    text-align: center;
+}
+#donation-plan{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#our-donation-plan{
+    font-weight: bold;
+    font-size: 50px;
+}
+#lorem-plan{
+    font-weight: bold;
+}
+#three-basic-needs{
+    display: flex;
+    padding: 5%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.food{
+    border-radius: 2%;
+    margin: 1%;
+    padding: 5%;
+    background-size: 25%;
+    background-color: #FF6347;
+}
+.shelter{
+    border-radius: 2%;
+    margin: 1%;
+    padding: 5%;
+    background-size: 25%;
+    background-color: #FF6347;
+}
+.education{
+    border-radius: 2%;
+    margin: 1%;
+    padding: 5%;
+    background-size: 25%;
+    background-color: #FF6347;
+}
+#activities{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: -2%;
+}
+#tree-plantation{
+    padding-top: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+#tree{
+    background-image: url("activities/tree.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 20%;
+}
+#tree-deailes{
+    background-color: greenyellow;
+    padding: 5%;
+}
+#blood-donation{
+padding: 10%;
+border-radius: 5%;
+}
+#blood{
+    background-image: url("activities/blood.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 20%;
+}
+#blood-details{
+    background-color: #FF4500;
+    padding: 5%;
+}
+#update{
+    text-align: center;
+}
+#full-box{
+    min-height: 19vh;
+    width: 51%;
+    margin-left: 24%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bar-button{
+ position: relative;
+}
+input{
+    border: none;
+    padding: 15px;
+    width: 400px;
+}
+button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border: none;
+    padding: 15px;
+    background: tomato;
+    color: white;
+}
+footer{
+    text-align: center;
+    justify-content: center;
+    background-color: #28282B;
+    border: 0%;
+}
+#humble{
+    width: 10%;
+}
+#do-it{
+    margin: 0%;
+    color: #fefffe;
+    padding-bottom: 2%;
+}
